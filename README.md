@@ -63,3 +63,12 @@ Why Logistic Regression?
 ---
 
 ## 📂 Repository Structure
+## 👨‍💻 Author
+
+Rajat Maurya  
+Aspiring Machine Learning Engineer  
+
+---
+
+⭐ If you like this project, feel free to give it a star!
+
